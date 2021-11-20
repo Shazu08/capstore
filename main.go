@@ -10,6 +10,7 @@ func main() {
 	var shazu int
 	var althaf int
 	sum(input(althaf), input(shazu))
+	sum(althaf, shazu)
 
 }
 func input(t int) int {
